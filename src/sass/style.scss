@@ -1,0 +1,11 @@
+$bgColor: #ffffff;
+$foreColor: #000;
+$fontSize: 20px; 
+$align: center;
+
+body {
+  background: $bgColor;
+  color: $foreColor;
+  font-size: $fontSize;
+  text-align: $align;
+}
