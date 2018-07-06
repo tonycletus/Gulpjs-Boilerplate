@@ -3,7 +3,7 @@
 
 This tends to break down to the simplest level but powerful functionalities Gulp, A toolkit for automating painful or time-consuming tasks during development workflow, so you can stop messing around and build something and we will be learning this with an example app and most common gulp plugins/libraries used.
 
-<h3>Content</h3>:
+<h3>Content:</h3>
 
 ⚛ What is Gulp<br>
 ⚛ Why Gulp<br>
