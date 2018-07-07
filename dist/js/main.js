@@ -1,1 +1,0 @@
-document.write("Hello Mr. Monkey!"),document.write("How are you mr. duck!");var greet=function(){alert("Hello User!")};greet();
