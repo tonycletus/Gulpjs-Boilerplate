@@ -9,7 +9,7 @@ This tends to break down to the simplest level but powerful functionalities Gulp
 ⚛ Why Gulp<br>
 ⚛ Major Functions<br>
 ⚛ Uses of Gulp<br>
-⚛ Installatioin Process<br>
+⚛ Installation Process<br>
 ⚛ Testing<br>
 ⚛ Minification of JavaScript Files<br>
 ⚛ Concatenation of Script Files<br>
